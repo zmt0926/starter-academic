@@ -53,4 +53,4 @@ education:
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-  Welcome to my blog! I come from Henan, China, and I am a graduate student majoring in Information System of Nanyang Technological University (NTU).
+Welcome to my blog! I come from Henan, China, and I am a graduate student majoring in Information System of Nanyang Technological University (NTU).
