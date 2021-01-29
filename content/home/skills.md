@@ -17,14 +17,14 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: turkey
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: Culinary
+- description: 60%
+  icon: swimmer
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Swimming
+- description: 20%
   icon: camera-retro
   icon_pack: fas
   name: Photography
