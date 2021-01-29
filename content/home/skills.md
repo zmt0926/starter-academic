@@ -18,7 +18,7 @@ subtitle: Skills
 feature:
 - description: 90%
   icon: utensils
-  icon_pack: fab
+  icon_pack: fas
   name: Culinary
 - description: 60%
   icon: swimmer
