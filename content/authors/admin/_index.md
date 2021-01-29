@@ -54,6 +54,4 @@ email: ""
 highlight_name: false
 ---
 
-Welcome to my blog. I come from Henan, China, and I am a graduate student majoring in Information System of Nanyang Technological University (NTU).
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+    Welcome to my blog! I come from Henan, China, and I am a graduate student majoring in Information System of Nanyang Technological University (NTU).
