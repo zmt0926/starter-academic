@@ -6,12 +6,12 @@ title: Zhang Mengtian
 superuser: true
 
 # Role/position/tagline
-role: Master of Information System
+# role: Master of Information System
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Nanyang Technological University
-  url: https://www.ntu.edu.sg/
+# organizations:
+# - name: Nanyang Technological University
+#   url: https://www.ntu.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
