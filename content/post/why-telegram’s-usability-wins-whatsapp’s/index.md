@@ -1,6 +1,6 @@
 ---
 title: "Why Telegram’s usability wins WhatsApp’s "
-date: 2021-02-21T23:15:17.158Z
+date: 2021-02-22T08:15:17.158Z
 summary: |-
   * Seamless usage on multiple devices without having to log out
   * Better chat management
