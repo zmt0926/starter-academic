@@ -21,4 +21,3 @@ content:
 design:
   view: 2
 ---
-3 reasons
