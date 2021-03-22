@@ -10,6 +10,14 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Sharing two videos for describing an ubiquitous application and wearable application/device!
+
+
+
+
+
+
+
 **FLUID: Flexible User Interface Distribution for Ubiquitous Multi-Device Interaction**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lGO4GwH4enA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
