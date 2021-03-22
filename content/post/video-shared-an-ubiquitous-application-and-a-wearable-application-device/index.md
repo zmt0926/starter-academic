@@ -1,6 +1,8 @@
 ---
 title: Video shared(an ubiquitous application and a wearable application/device)
 date: 2021-03-22T02:00:00.000Z
+summary: Sharing two videos for describing an ubiquitous application and
+  wearable application/device!
 draft: false
 featured: false
 image:
@@ -14,13 +16,13 @@ image:
 
 https://youtu.be/lGO4GwH4enA
 
-<!--\[if gte mso 9]><xml><o:DocumentProperties><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties></xml><!\[endif]-->
+<!--\\[if gte mso 9]><xml><o:DocumentProperties><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties></xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><!\[endif]-->
+<!--\\[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><!\[endif]-->
+<!--\\[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<!--\\[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 1" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 2" ></w:LsdException>
@@ -278,7 +280,7 @@ https://youtu.be/lGO4GwH4enA
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
-</w:LatentStyles></xml><!\[endif]-->
+</w:LatentStyles></xml><!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -286,25 +288,25 @@ This demo video shows that FLUID can provide new UX scenarios for multi-device e
 
 Better usability
 
-<!--\[if !supportLists]-->1. <!--\[endif]-->Remote control: get full remote control for a video player app
+<!--\\[if !supportLists]-->1. <!--\\[endif]-->Remote control: get full remote control for a video player app
 
-<!--\[if !supportLists]-->2. <!--\[endif]-->Multiple tools: access multiple painting tools at the same time
+<!--\\[if !supportLists]-->2. <!--\\[endif]-->Multiple tools: access multiple painting tools at the same time
 
-<!--\[if !supportLists]-->3. <!--\[endif]-->Remote input: in a taxi, enter the destination into the car’s map app from a rear seat
+<!--\\[if !supportLists]-->3. <!--\\[endif]-->Remote input: in a taxi, enter the destination into the car’s map app from a rear seat
 
-<!--\[if !supportLists]-->4. <!--\[endif]-->Better layout: avoid that a keyboard UI is covering an important scene of live streaming
+<!--\\[if !supportLists]-->4. <!--\\[endif]-->Better layout: avoid that a keyboard UI is covering an important scene of live streaming
 
 Multi-user collaboration
 
-<!--\[if !supportLists]-->1. <!--\[endif]-->Collaboratively enter multiple information at the same time.
+<!--\\[if !supportLists]-->1. <!--\\[endif]-->Collaboratively enter multiple information at the same time.
 
-<!--\[if !supportLists]-->2. <!--\[endif]-->Collaboratively play a game with multiple inputs.
+<!--\\[if !supportLists]-->2. <!--\\[endif]-->Collaboratively play a game with multiple inputs.
 
 Better privacy
 
-<!--\[if !supportLists]-->1. <!--\[endif]-->Put the password confidentially while sharing the screen in a business meeting.
+<!--\\[if !supportLists]-->1. <!--\\[endif]-->Put the password confidentially while sharing the screen in a business meeting.
 
-<!--\[if !supportLists]-->2. <!--\[endif]-->Unlock the pattern lock confidentially while sharing the screen in a business meeting.
+<!--\\[if !supportLists]-->2. <!--\\[endif]-->Unlock the pattern lock confidentially while sharing the screen in a business meeting.
 
 <!--EndFragment-->
 
@@ -312,13 +314,15 @@ Better privacy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BoEXWr6chZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!--\[if gte mso 9]><xml><o:DocumentProperties><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties></xml><!\[endif]-->
+https://youtu.be/BoEXWr6chZQ
 
-<!--\[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><!\[endif]-->
+<!--\\[if gte mso 9]><xml><o:DocumentProperties><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties></xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><!\[endif]-->
+<!--\\[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<!--\\[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><!\\[endif]-->
+
+<!--\\[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 1" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="heading 2" ></w:LsdException>
@@ -576,7 +580,7 @@ Better privacy
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
-</w:LatentStyles></xml><!\[endif]-->
+</w:LatentStyles></xml><!\\[endif]-->
 
 <!--StartFragment-->
 
