@@ -1,5 +1,5 @@
 ---
-title: Video shared(an ubiquitous application and a wearable application/device)
+title: Video shared(an ubiquitous application and wearable applications/devices)
 date: 2021-03-22T02:00:00.000Z
 summary: Sharing two videos for describing an ubiquitous application and
   wearable application/device!
